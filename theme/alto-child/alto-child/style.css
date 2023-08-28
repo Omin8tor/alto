@@ -31,6 +31,9 @@ Text Domain:   page-builder-framework-child
 #promotionalAutoModal .row.flex img {
 	padding: 0px;
 }
+body, h1, h2, h3 {
+	background: green !important;
+}
 /*#menu-primary-menu .sub-menu .sub-menu li a {
 	font-size: 14px;
 	font-weight: 400 !important;
